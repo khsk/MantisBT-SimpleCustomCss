@@ -5,3 +5,10 @@ code {
     background-color: #F7F7F7;
     border-radius: 3px;
 }
+
+blockquote {
+    border-left: 4px solid #ECFFBF;
+    margin-left: 0.8em;
+    margin-top: 0;
+    padding: 0.8em;
+}
