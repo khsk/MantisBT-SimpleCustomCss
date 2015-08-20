@@ -1,2 +1,2 @@
 # MantisBT-SimpleCustomCss
-only add css file. too simple plugin.
+Just add a CSS file. too simple plugin.
